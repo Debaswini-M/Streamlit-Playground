@@ -28,7 +28,7 @@ Streamlit Playground is designed to:
 
 
 ```
-streamlit-playground/
+Streamlit-Playground/
 │
 ├── Age_Calculator/
 │   ├── age_calculator.py
