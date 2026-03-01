@@ -60,16 +60,7 @@ Streamlit-Playground/
 
 ---
 
-## 🚧 Upcoming Applications
 
-### 🧁CaféHub ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-
-- Tab-based UI navigation
-- Dynamic menu selection system
-- Interactive ordering logic
-- Planned billing and cart integration
-  
----
 
 ### 🤖 Machine Learning Applications ![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
 
